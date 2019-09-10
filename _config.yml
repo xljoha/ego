@@ -26,6 +26,7 @@ baseurl: "/ego" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: karmajohan
 github_username:  xljoha
+mobile_phone: "+46766181716"
 
 # Build settings
 theme: minima

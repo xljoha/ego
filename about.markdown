@@ -1,18 +1,56 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Curriculum vitae
+permalink: /cv/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## WORK
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Gothenburg University Library (2014-ongoing)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Frontend development using Ember, Bootstrap, Drupal 7, PHP, Ruby on Rails.
+
+### LBi (Formely Framfab)  (2006-2014)
+
+Frontend development, support and rollout. Mostly for Volvo cars and Volvo AB. 
+
+### Web Agency Idatso LTD, Sydney (2003)
+
+PHP och ColdFusion
+
+### Lecturer Gothenburg University (2002)
+
+Co-teaching a 10 point course in game development concepts. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+## EDUCATION
+
+
+### Art College – Photography 2009 – 2010 
+
+Studied the art of photography and its history. 
+
+### Gothenburg University 2006
+
+Science of education. 
+
+
+### IT University of Gothenburg and University of Technology Sydney (2001 -2004)
+
+Masters programme with focus on mobile technologies. Programming using C++ (Visual studio). One semester was spent in Sydney.
+
+
+### Högskolan I Halmstad (2000 – 2001)
+
+Focus on på e-commerce.  	
+
+
+### Blekinge Tekniska Högskola (1998 – 2000) 
+
+Basic object orientation and UML-modeling. Relational databases and web development using Microsoft technologies. 
+
+### Hvidthfeldtska (High School) (1994 -1997)
+
+Economics.
+
+

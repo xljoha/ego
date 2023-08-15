@@ -8,7 +8,7 @@ permalink: /cv/
 
 ### Gothenburg University Library (2014-ongoing)
 
-Frontend development using Ember, Bootstrap, Drupal 7, PHP, Ruby on Rails.
+Frontend development using Javascript, Vue.js, Nuxt.js, Ember, Bootstrap, Drupal 7, PHP, Ruby on Rails.
 
 ### LBi (Formely Framfab)  (2006-2014)
 
